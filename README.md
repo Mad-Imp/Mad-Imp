@@ -9,6 +9,7 @@
 ![SASS](https://img.shields.io/badge/-SASS-292929?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-292929?style=for-the-badge&logo=JavaScript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-292929?style=for-the-badge&logo=Bootstrap)
+![NPM](https://img.shields.io/badge/-npm-292929?style=for-the-badge&logo=NPM)
 ![Webpack](https://img.shields.io/badge/-Webpack-292929?style=for-the-badge&logo=Webpack)
 ![Git](https://img.shields.io/badge/-Git-292929?style=for-the-badge&logo=Git)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-292929?style=for-the-badge&logo=Photoshop)
