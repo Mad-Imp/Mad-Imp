@@ -17,6 +17,7 @@
 
 ## I am currently learning: 
 ![React](https://img.shields.io/badge/-ReactJS-292929?style=for-the-badge&logo=React)
+![TypeScript](https://img.shields.io/badge/-TypeScript-292929?style=for-the-badge&logo=TypeScript)
 
 ## Contacts
 
