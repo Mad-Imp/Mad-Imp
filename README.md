@@ -2,7 +2,7 @@
 
 ## I am from Lipetsk
 
-### Languages and Technologies
+### Languages, Technologies and Tools
 
 ![HTML](https://img.shields.io/badge/-HTML-292929?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-292929?style=for-the-badge&logo=css3)
