@@ -11,6 +11,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-292929?style=for-the-badge&logo=Bootstrap)
 ![NPM](https://img.shields.io/badge/-npm-292929?style=for-the-badge&logo=NPM)
 ![Webpack](https://img.shields.io/badge/-Webpack-292929?style=for-the-badge&logo=Webpack)
+![Babel](https://img.shields.io/badge/-Babel-292929?style=for-the-badge&logo=Babel)
 ![Git](https://img.shields.io/badge/-Git-292929?style=for-the-badge&logo=Git)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-292929?style=for-the-badge&logo=Photoshop)
 ![Figma](https://img.shields.io/badge/-Figma-292929?style=for-the-badge&logo=Figma)
