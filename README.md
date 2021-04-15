@@ -24,3 +24,7 @@
 
 ### Mail: lana.obanina@bk.ru
 ### Telegram: @Lana_Ob
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mad-Imp&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Mad-Imp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mad-Imp&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Codewars](https://www.codewars.com/users/Mad-Imp/badges/small)
